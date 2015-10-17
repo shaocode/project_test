@@ -24,7 +24,7 @@ public class CharTest
 		 
 	 }
 
-	 //去除null
+	 //去除元素值为null的元素
 	String string= new String(result);
     String ns=string.trim();
 	System.out.println("中间含有空格：("+ns+")");
