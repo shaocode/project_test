@@ -15,6 +15,6 @@ script:
 notifications:  
   email:  
     recipients:  
-      - ******@***.com  
+      - shao126300@163.com  
     #on_success: [always|never|change]  default: change  
     #on_failure: [always|never|change]  default: always  
